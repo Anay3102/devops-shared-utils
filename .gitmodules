@@ -1,0 +1,3 @@
+[submodule "libs/shared-library"]
+	path = libs/shared-library
+	url = git@github.com:Anay3102/devops-shared-utils.git
